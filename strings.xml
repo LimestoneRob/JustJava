@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Just Java</string>
+
+    <!--activity_main.xml-->
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="quantity">Quantity</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="name">Name</string>
+    <string name="order">Order</string>
+    <string name="order_summary_chocolate">Add Chocolate</string>
+    <string name="toppings">Toppings</string>
+    <string name="order_summary">order_summary</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="dollars">$0</string>
+
+    <!--MainActivity.java-->
+    <!--<string name="order_summary_name">Name: <xliff:g :id="name" example="Amy">%s</xliff:g></string>-->
+    <string name="add_whipped_cream">Add Whipped Cream? </string>
+    <string name="add_chocolate">Add Chocolate? </string>
+    <string name="java_quantiry">Quantity: </string>
+    <string name="java_total">Total: $</string>
+    <string name="java_thank_you">Thank You!</string>
+    <string name="java_100_limit">100 cups maximum</string>
+    <string name="java_1_minimum">1 cup minimum</string>
+    <string name="java_Name">Name :</string>
+
+</resources>
